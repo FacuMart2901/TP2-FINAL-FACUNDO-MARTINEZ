@@ -1,0 +1,20 @@
+{
+  "name": "tp2-final-facundo-martinez",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FacuMart2901/TP2-FINAL-FACUNDO-MARTINEZ.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FacuMart2901/TP2-FINAL-FACUNDO-MARTINEZ/issues"
+  },
+  "homepage": "https://github.com/FacuMart2901/TP2-FINAL-FACUNDO-MARTINEZ#readme",
+  "description": ""
+}
